@@ -3,3 +3,5 @@
 ################################################################################
 
 /FormAuthDemo/packages
+/FormAuthDemo/FormAuth.Website/bin
+/FormAuthDemo/FormAuth.Website/obj/Debug
